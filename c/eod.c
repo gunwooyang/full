@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int eod(int x){
 	if(x % 2 == 0)
